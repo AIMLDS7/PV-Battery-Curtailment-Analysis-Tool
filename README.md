@@ -14,7 +14,7 @@
 **Site**: Austria  
 **PV Capacity**: ~10.16 MW DC  
 **Grid Injection Limit**: 9 MW  
-**Battery**: 4.3 MWh / 2.16 MW (Huawei LUNA2000-215-2S10 × 20)  
+**Battery**: 4.3 MWh / 2.16 MW   
 **Resolution**: 15-minute (35,040 intervals/year)  
 **Period**: Full calendar years 2024 & 2025
 
