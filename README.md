@@ -11,7 +11,7 @@
 
 ## 🎯 Executive Summary — Real-World Impact
 
-**Site**: UW Teufenbach, Austria  
+**Site**: Austria  
 **PV Capacity**: ~10.16 MW DC  
 **Grid Injection Limit**: 9 MW  
 **Battery**: 4.3 MWh / 2.16 MW (Huawei LUNA2000-215-2S10 × 20)  
