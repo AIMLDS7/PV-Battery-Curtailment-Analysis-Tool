@@ -1,0 +1,18 @@
+# PV + Battery Curtailment Analysis Tool
+# Core dependencies (required)
+
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+python-docx>=1.1.0
+kaleido>=0.2.1
+openpyxl>=3.1.0
+
+# Optional but recommended for best experience
+# kaleido is already listed above (required for saving Plotly figures to PNG in DOCX reports)
+
+# Development / nice-to-have (not required to run the tool)
+# jupyter>=1.0.0
+# ipywidgets>=8.0.0
+# black>=24.0.0
+# ruff>=0.4.0
