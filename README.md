@@ -182,7 +182,7 @@ Please contact the author via GitHub or email if you are interested.
 
 - `4Scenario_*.xlsx` — Full energy balance for both years
 - `StrategyComparison_*.xlsx` — All 7 strategies ranked side-by-side
-- `PV_BESS_Curtailment_Report_*.docx` — Complete thesis-ready technical report
+- `PV_BESS_Curtailment_Report_*.docx` — Complete technical report
 - High-resolution interactive Plotly visualizations
 
 ---
@@ -209,7 +209,7 @@ Most academic PV+BESS curtailment studies use simplified battery logic, analyze 
 
 ---
 
-**Developed as part of a Master's thesis using real Austrian 15-minute substation data.**  
+**Developed using real Austrian 15-minute substation data.**  
 High-quality, reproducible energy systems analysis with top-tier visualization and documentation.
 
 **GitHub**: [AIMLDS7](https://github.com/AIMLDS7)
