@@ -85,7 +85,7 @@
 
 ---
 
-## 🧠 Technical Highlights (Top 1% Quality)
+## 🧠 Technical Highlights
 
 ### 1. Physically Rigorous Battery Modeling
 - Battery **only charges from curtailed energy** (excess above grid limit)
@@ -131,19 +131,37 @@ Update the file paths at the top of the script for your PV and load data.
 ## 📁 Project Structure (Recommended)
 
 ```
+
 pv-battery-curtailment/
 ├── README.md
 ├── requirements.txt
-├── pv_battery_Curtailment_V28.py          # Main application (single-file for now)
-├── data/                                  # Place your input files here
+├── pv_battery_Curtailment_V28.py          # ← main Python script
+│
+├── images/                                # ← ALL CHARTS & SCREENSHOTS 
+│   ├── capacity_sensitivity_2024.jpg
+│   ├── capacity_sensitivity_2025.jpg
+│   ├── strategyranking.jpg
+│   ├── complete_2024.jpg
+│   ├── complete_2025.jpg
+│   ├── 4_Scenario_Curtailment_Comparison_2024.jpg
+│   ├── 4_Scenario_Curtailment_Comparison_2025.jpg
+│   ├── Monthly_2024.jpg
+│   ├── Monthly_2025.jpg
+│   ├── stretagy_2024.jpg
+│   ├── stretagy_2025.jpg
+│   └── PV-Battery_Analysis_Tool.jpg
+│
+├── data/                                  # ← input data files
 │   ├── pvsyst_pv1.csv
 │   ├── pvsyst_pv2.csv
 │   └── Lastprofil_2024_2025.xlsx
-├── outputs/                               # Auto-generated results
-│   ├── *.xlsx
-│   └── *.docx
-└── figures/                               # Optional: exported static images
+│
+├── outputs/                               #  Generated reports (can be gitignored)
+│
+└── .gitignore
+
 ```
+
 
 The current implementation is a single well-organized Python file for simplicity.  
 For larger projects it can easily be refactored into modules (`data/`, `battery/`, `visualization/`, `reporting/`).
@@ -153,9 +171,6 @@ For larger projects it can easily be refactored into modules (`data/`, `battery/
 ## 📦 Code Availability
 
 The full source code is **not publicly released**.
-
-This project took **more than 6 months** of dedicated development, testing, validation, and refinement.  
-We cannot share it freely with everyone.
 
 The code **can be shared upon request** for academic collaboration, research partnerships, or commercial licensing discussions.
 
