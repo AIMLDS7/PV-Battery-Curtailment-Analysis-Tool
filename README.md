@@ -34,10 +34,10 @@
 ### Capacity Sensitivity Analysis (Diminishing Returns)
 
 **2025**
-![Capacity Sensitivity 2025](capacity_sensitivity_2025.jpg)
+![Capacity Sensitivity 2025](images/capacity_sensitivity_2025.jpg)
 
 **2024**
-![Capacity Sensitivity 2024](capacity_sensitivity_2024.jpg)
+![Capacity Sensitivity 2024](images/capacity_sensitivity_2024.jpg)
 
 **Cross-Year Sizing Recommendations (0.5C, Peak Shaving strategy)**
 
@@ -49,7 +49,7 @@
 
 ### Strategy Performance Ranking (Consistent Across Both Years)
 
-![Strategy Ranking](strategyranking.jpg)
+![Strategy Ranking](images/strategyranking.jpg)
 
 **Performance tiers**:
 - **Top tier**: Peak Shaving, Aggressive Discharge, Feed-in Maximization
@@ -60,28 +60,28 @@
 ### Full 4-Scenario Energy Balance
 
 **2025**
-![Complete Energy Balance 2025](complete_2025.jpg)
+![Complete Energy Balance 2025](images/complete_2025.jpg)
 
 **2024**
-![Complete Energy Balance 2024](complete_2024.jpg)
+![Complete Energy Balance 2024](images/complete_2024.jpg)
 
 ### 4-Scenario Comparison Dashboards
 
 **2025**
-![4-Scenario 2025](4_Scenario_Curtailment_Comparison_2025.jpg)
+![4-Scenario 2025](images/4_Scenario_Curtailment_Comparison_2025.jpg)
 
 **2024**
-![4-Scenario 2024](4_Scenario_Curtailment_Comparison_2024.jpg)
+![4-Scenario 2024](images/4_Scenario_Curtailment_Comparison_2024.jpg)
 
 ### Monthly Curtailment & Detailed Strategy Comparison
 
-![Monthly 2025](Monthly_2025.jpg) ![Monthly 2024](Monthly_2024.jpg)
+![Monthly 2025](images/Monthly_2025.jpg) ![Monthly 2024](images/Monthly_2024.jpg)
 
-![Strategy Comparison 2025](stretagy_2025.jpg) ![Strategy Comparison 2024](stretagy_2024.jpg)
+![Strategy Comparison 2025](images/stretagy_2025.jpg) ![Strategy Comparison 2024](images/stretagy_2024.jpg)
 
 ### Production-Ready GUI
 
-![GUI](PV-Battery_Analysis_Tool.jpg)
+![GUI](images/PV-Battery_Analysis_Tool.jpg)
 
 ---
 
